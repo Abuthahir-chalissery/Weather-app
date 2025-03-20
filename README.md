@@ -16,6 +16,10 @@ The **Weather App** is a sleek and modern web application built using **HTML**, 
 - ❗ Displays an **'Invalid city'** message when the city name is not found.
 - 📱 Fully responsive and visually appealing UI.
 
+
+## 🌐 Live Demo
+Experience the Weather App live: [Weather App Demo](https://abuthahir-chalissery.github.io/Weather-app/)
+
 ## 🚀 How to Run the App
 1. **Clone the repository**
    ```bash
